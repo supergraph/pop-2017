@@ -587,7 +587,7 @@
 			.wrapper.style2 .button.special {
 				background: white;
 				border-color: white;
-				color: #83d3c9 !important;
+				color: #d232a9 !important;
 			}
 
 				.wrapper.style2 .button.special:hover {
@@ -606,6 +606,12 @@
 			padding: 4em;
 		}
 
+		.wrapper.style5 {
+			background-color: #d232a9;
+			padding: 4em;
+            margin-bottom: 1em;
+		}
+        
 /* Header */
 	@-moz-keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 	@-webkit-keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
